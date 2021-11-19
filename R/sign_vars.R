@@ -5,7 +5,7 @@
 #' @param alpha A numeric value between 0 and 1 to be the p.value threshold
 #' @return A vector identifying which variables that have a p value < alpha in in a linear model
 #' @examples
-#' sign_vars(iris[,1:3], iris[,4])) #error = TRUE
+#' sign_vars(iris[,1:3], iris[,4]) #error = TRUE
 #' sign_vars(iris[,1:3], as.vector(iris[,4]))
 #' @export
 #'
