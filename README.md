@@ -15,3 +15,4 @@ This is Tigana Runte's repository for the STAT545B Winter 2021 function assignme
 -  **`LICENSE(.MD)`:** This is the licence for my package. 
 -  **`NAMESPACE`:** 
 - **`sig.Rproj`:**
+-  **`test-sign_vars.R`:** This file contains my tests of my function. It is in the 'tests' file.
