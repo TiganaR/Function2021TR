@@ -10,5 +10,9 @@ This is Tigana Runte's repository for the STAT545B Winter 2021 function assignme
 ### File List
 
 - **`README.md`:** This file. It contains information about the assignment and files in the repository.
-- **`Assignment_b1(TR).Rmd`:** The R markdown file containing the source code for assignment 1. You can run the code in R.
-- **`Assignment_b1(TR).md`** This is the knitted version of the markdown file. 
+- **`Assignment_b2(TR).Rmd`:** The R markdown file containing the source code for assignment 1. You can run the code in R.
+-  **`DESCRIPTION`:**  This is the description file for my package (sig).
+-  **`LICENSE(.MD)`:** This is the licence for my package. 
+-  **`NAMESPACE`:** 
+- **`sig.Rproj`:**
+-  **`test-sign_vars.R`:** This file contains my tests of my function. It is in the 'tests' file.
